@@ -1,0 +1,14 @@
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\bin\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.deps.json
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\bin\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.runtimeconfig.json
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\bin\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.runtimeconfig.dev.json
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\bin\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.dll
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\bin\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.pdb
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.csprojAssemblyReference.cache
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.csproj.CoreCompileInputs.cache
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.RazorAssemblyInfo.cache
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.RazorAssemblyInfo.cs
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.AssemblyInfoInputs.cache
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.AssemblyInfo.cs
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.RazorTargetAssemblyInfo.cache
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.dll
+C:\Users\gsouza\OpenSpaceAdmin\Estagio.OpenSpaceAdmin\obj\Debug\netcoreapp2.2\Estagio.OpenSpaceAdmin.pdb
